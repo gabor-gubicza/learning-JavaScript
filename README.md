@@ -2,12 +2,12 @@
 Public repo for my learning projects
 
 This is a test modification
-## 1 Github testing
+###  2023/09/28-2 Github testing
 This is my 2nd commit as I'm experimenting with GitHub
 28/09/2023
 
 
-### 2 Github testing: Motherfucking VIM, Apple keyboard layout!
+### 2023/09/28-2 Github testing: Motherfucking VIM, Idiotic Apple keyboard layout!
 Motherfucking VIM, and Apple keyboard layout
 
 Problem: 
@@ -21,5 +21,16 @@ But nano doesn't have the :wq to write and quit. it had CTRL X.
 
 10:42 video done in 45 minutes. 
 Fuck me.
+
+### 2023/09/28-3  VSC updated with Extensions
+- Auto Open Markdown
+- Colorize
+- Eslint
+- GitLens
+- Import Cost
+- Peacock
+- Project Manager
+- vscode icons
+- indent rainbow
 
 
