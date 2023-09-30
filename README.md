@@ -41,3 +41,4 @@ I can't clone repo due to SSH not being set up and workspace wasn't saved
 ### 2023/09/30-1  Installing JS and Node JS on MacBook
 Installing NodeJS, JS on MacBook
 Saved VSC Workspace to Repo root
+First JS program works - console print
