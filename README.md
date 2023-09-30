@@ -34,3 +34,9 @@ Fuck me.
 - indent rainbow
 
 
+### 2023/09/29-1  Installing JS and Node JS on PC
+I installed NodeJS with NPM restarted VSC and it lost the repo. 
+I can't clone repo due to SSH not being set up and workspace wasn't saved
+
+### 2023/09/30-1  Installing JS and Node JS on MacBook
+Installing NodeJS, JS on MacBook
