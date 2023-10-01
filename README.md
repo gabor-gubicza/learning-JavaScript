@@ -3,14 +3,14 @@ Public repo for my learning projects
 
 
 
-### 2023/10/1-1  Sunday Tidying 
+## 2023/10/1  Sunday 
 Switching from HW to SW is going to be a major effort. I need to be collected, organized, focused, rested and dedicated.
 
 I reformatted my Readme- Logbook so the most upto date is on top.
 
 ## 2023/09/30 Saturay
 
-### - 1 Installing JS and Node JS on MacBook
+### 1 Installing JS and Node JS on MacBook
 Installing NodeJS, JS on MacBook
 Saved VSC Workspace to Repo root
 First JS program works - console print
