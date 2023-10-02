@@ -2,6 +2,9 @@
 Public repo for my learning projects
 
 
+## 2023/10/2  Monday 
+
+
 
 ## 2023/10/1  Sunday 
 Switching from HW to SW is going to be a major effort. I need to be collected, organized, focused, rested and dedicated.
