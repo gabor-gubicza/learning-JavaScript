@@ -3,7 +3,9 @@ Public repo for my learning projects
 
 
 ## 2023/10/2  Monday 
-
+install -i prompt-sync: -i was needed to make it work
+MavBook: Runs JS code with Prompt
+PC: Environmental variable had to be updated for npm
 
 
 ## 2023/10/1  Sunday 
