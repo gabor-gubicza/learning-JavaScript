@@ -2,7 +2,17 @@
 Public repo for my learning projects
 
 
+
+## 2023/10/3  Tuesday 
+
+I saw a very good documentary on TypeScript:
+https://youtu.be/U6s2pdxebSo?si=ewbP9900zgYibjbr
+
+
 ## 2023/10/2  Monday 
+I was trying to run the JS code, somehow the prompt-sync doesn't work, neither on the PC nor on the Mac. I debuged the situation for 1 hour, but to no avail, I need to push forward and to cycle back to it.
+
+I found good tutorials on Chrome Extensions.
 
 
 
