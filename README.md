@@ -15,6 +15,15 @@ install -i prompt-sync: -i was needed to make it work
 MavBook: Runs JS code with Prompt
 PC: Environmental variable had to be updated for npm
 
+## 2023/10/3 Tuesday
+
+I saw a very good documentary on TypeScript:
+https://youtu.be/U6s2pdxebSo?si=ewbP9900zgYibjbr
+
+## 2023/10/2 Monday
+
+Google Chrome Extension Tutorials
+
 ## 2023/10/1 Sunday
 
 Switching from HW to SW is going to be a major effort. I need to be collected, organized, focused, rested and dedicated.
