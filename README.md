@@ -4,6 +4,38 @@ Public repo for my learning projects
 
 ## 2023/10/6 Friday
 
+### Variable notation
+
+- camelCase
+- snake_case
+- PascalCase
+
+### Variables can only contain:
+
+- numbers
+- letters
+- dollar sign $
+- underscore
+- "name" is reserved keyword
+- PI is a constant - all capital.
+- Variable names can't start with number. Syntax error
+
+### Data Types
+
+Value
+
+- object
+- primitive
+  - Number
+  - String
+  - Boolean
+  - Undefined
+  - Null
+  - Symbol (ES2015)
+  - BigInt (ES2020)
+
+Data types are determined AUTOMATICALLY in JS
+
 ## 2023/10/5 Thurday
 
 JS learning
