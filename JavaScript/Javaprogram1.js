@@ -1,1 +1,1 @@
-console.log("First JS program");
+console.log("First JS program-GG");
