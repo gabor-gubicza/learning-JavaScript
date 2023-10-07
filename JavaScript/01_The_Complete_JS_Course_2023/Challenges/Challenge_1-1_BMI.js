@@ -19,9 +19,10 @@ GOOD LUCK 😀
 
 
 */
+const prompt = require("prompt-sync")();
 
 let massMark = 78;             //kg
-let massJohn = 92;             //kg
+let massJohn = 120;             //kg
 let heightMark = 1.69;         //m
 let heightJohn = 1.95;         //m
 let BMIMark = (massMark / heightMark ** 2).toFixed(2) ;
@@ -30,4 +31,13 @@ let markHigherBMI = BMIMark > BMIJohn;
 
 console.log("Mark's BMI:", BMIMark);
 console.log("John's BMI:" , BMIJohn);
-console.log("Mark's BMI is larger than John's?: ", markHigherBMI);
+// console.log("Mark's BMI is larger than John's?: ", markHigherBMI);
+
+if (BMIMark>BMIJohn) {
+    console.log(`Mark's BMI is larger ${BMIMark}`);
+} else {
+    console.log(`John's BMI is larger ${BMIJohn}`);
+}
+
+let work = prompt("A: ");
+console.log(work)
