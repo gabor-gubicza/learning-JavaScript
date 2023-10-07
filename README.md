@@ -9,6 +9,20 @@ https://www.markdownguide.org/basic-syntax/
 
 ---
 
+Challenge 1: BMI Comparison of 2 person
+
+    let massMark = 78;                  //kg
+    let massJohn = 92;                  //kg
+    let heightMark = 1.69;              //m
+    let heightJohn = 1.95;              //m
+    let BMIghtMark = (massMark / heightMark ** 2).toFixed(2) ;      // 2 Decimals
+    let BMIJohn = (massJohn / heightJohn ** 2).toFixed(2) ;
+    let markHigherBMI = BMIghtMark > BMIJohn;
+
+    console.log("Mark's BMI:", BMIghtMark);
+    console.log("John's BMI:" , BMIJohn);
+    console.log("Mark's BMI is larger than John's?: ", markHigherBMI);
+
 ---
 
 ### OPERATOR
