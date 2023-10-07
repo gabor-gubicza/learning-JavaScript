@@ -9,7 +9,203 @@ https://www.markdownguide.org/basic-syntax/
 
 ---
 
-Challenge 1: BMI Comparison of 2 person
+---
+
+### Functions and Expressions
+
+Variable for whole chunks of code
+Reuse a piece of code
+Receive data and return data
+
+Keep the code DRY
+Don't Repeat Yourself!
+
+---
+
+### Strict Mode
+
+- Forbids certain things.
+- Produces visible errors
+- Introduce a shortlist of variable names of features that might be added later.
+
+---
+
+### History of JAVASCRIPT
+
+1997 - Brendan Eich, first version of JavaScript in 10 days - called Mocha
+
+Mocha -> LiveScript -> JavaScript
+Microsoft copying JavaScript to JScript
+ECMA -
+ECMA is the standard, JS is the language
+EcmaScript changed to yearly releases.
+2009 - ES5
+2015 - ES6 Biggest update to the language
+
+JS: Backward compatibility 25
+Old versions are neber removed.
+Releases NOT versions.
+
+Don't Break the Web!
+inlcuding BUGS.
+Learn new JavaScript, just go around the bugs.
+
+Foreward compatibilit.
+JS is NOT forward compatible.
+
+- Development
+
+  - use the latest browser
+
+- Production
+  - Babel - Transpile, Polyfill the code Converting back to ES5 to ensure broweser compatibility for all users.
+
+ES6+ All the latest releases
+
+---
+
+### Challenge 4
+
+    const tip50_300 = 0.15;
+    const tipElse = 0.2;
+    const bill = 51 ;
+    const tip = (bill > 50 && bill < 300) ?  tip50_300 : tipElse ;
+    console.log(`
+    Bill:   ${bill}
+    Tip:    ${tip}
+    Total:  ${bill * (1+tip)}
+    `);
+
+---
+
+### Conditional Operator
+
+    const age =25;
+    const drink = age >= 18 ? 'wine' : 'water';
+    console.log(drink)
+
+---
+
+### Statements and expressions
+
+Statement: Does not produce a value Ends with semicolon
+Expression: Produces a value
+Template leteral: Expression
+
+---
+
+### SWITCH statement
+
+    const day = 'monday'
+    swithc(day) {
+    case 'monday':
+        console.log(Plan course structure);
+        break;
+    case 'tuesday':
+        console.log(Shoot videos);
+        break;
+    case 'wednesday':
+    case 'thursday':
+        console.log(Record videos);
+        break;
+    case 'friday':
+        console.log(Ship);
+        break;
+    case 'saturday':
+    case 'sunday':
+        console.log(enjoy);
+        break;
+
+    }
+
+---
+
+### Boolean Logic / Logical operators
+
+Karnaugh Map / K-Map
+
+- && AND operator
+- || OR operator
+- ! NOT operator
+
+---
+
+### Equal operators
+
+== loose operator: does allow coercion: Avoide loose operator if possible. It's better to convert manually than to use coercion.
+
+=== strict operator: doesn not perform type coercion
+
+!== Different operator
+
+---
+
+### Truthy and Falsy
+
+**Falsy values (5)**
+
+- 0
+- ''
+- undefined
+- null
+- NaN
+
+**Truthy values**
+
+- All values except Falsy values
+- https://developer.mozilla.org/en-US/docs/Glossary/Truthy
+
+---
+
+### Type Conversion
+
+Type Coercion: JS automataically coneverts types
+
+NaN is a number type with invalid number content
+
+Number()
+String()
+Boolean()
+
+Converting Booleans
+
+---
+
+If ELSE control structure
+
+Emoji:
+Mac: CMD + CTRL + Space
+WIN: Win + .
+
+If a variable is declare INSIDE a code block, it can't be accessed by other parts of the program.
+
+---
+
+### Strings and Template Literals
+
+Type Coercion
+
+const jonas = "I'm " + firstName + ', a' + (year-birthYear) + 'years old ' + job + '!';
+
+Template Literals:
+Most used ES6 features
+
+Using backticks `
+
+const jonasNew = `I'm ${firstName}, a ${year - birtrhYear} year old ${jpb}`;
+
+Using backticks then you don't need think about ...
+
+Multi line console log \n\
+This only works because of a bug in the software
+
+Backticks can make new lines
+
+---
+
+### Challenge 1: BMI Comparison of 2 person
+
+https://github.com/gabor-gubicza/learning-public/tree/main/JavaScript/Course_1/Challenges
 
     let massMark = 78;                  //kg
     let massJohn = 92;                  //kg
