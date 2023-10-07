@@ -2,7 +2,57 @@
 
 Public repo for my learning projects
 
-## 2023/10/07 Saturday JavaScript
+## 2023/10/07 Saturday JS: LetConstVar, Operators,
+
+Markdown Syntax:
+https://www.markdownguide.org/basic-syntax/
+
+---
+
+---
+
+### OPERATOR
+
+- Aritchmetic Operator
+  - plus minus multipl. div.
+  - \*\* is power ^
+  - Plus can also concenate - console.log(firstName + ' ' + lastName);
+- TypeOf Operator
+- Assignment operator
+  - = let x = 10 + 1;
+  - += Meaning: => X = X + 10
+  - ( * =) Meaning: => X=X*4
+  - ++ Increment
+  - -- Decrement
+  - (> ,<, <=, >=) Greater etc...
+  - console.log(now - 1991 > now - 2018); The two arithmetic operators are done, then the assingment operator
+  - JS has a well defined order of operator precedence:
+    - MDN operator precedence: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence
+    - Larger number has higher precedence (1..18)
+  -
+
+---
+
+### LET
+
+Declare variable that can change later,
+
+- reassigning a variable,
+- mutate the variable
+
+### CONST
+
+Declare variable CAN NOT be changed
+Immutable variable
+
+Const can't be EMPTY
+Always use CONST as a declaration first, then use Let.
+Make as little variable mutation as possible
+
+### VAR
+
+This should be completely avoided. For legacy reasons.
+Old way to defining variables before ES6 (EcmaScript)
 
 ## 2023/10/06 Friday JavaScript
 
