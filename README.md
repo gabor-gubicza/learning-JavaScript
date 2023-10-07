@@ -2,7 +2,9 @@
 
 Public repo for my learning projects
 
-## 2023/10/6 Friday
+## 2023/10/07 Saturday JavaScript
+
+## 2023/10/06 Friday JavaScript
 
 ### Variable notation
 
@@ -35,6 +37,34 @@ Value
   - BigInt (ES2020)
 
 Data types are determined AUTOMATICALLY in JS
+The value that stores the data type not the variable
+
+Dynamic Typing
+
+Undefined means: Empty value:
+
+let year;
+year = 2001;
+
+console.log (typeof year);
+
+### NULL
+
+**Bug in JS: Type of null is Object.**
+null is a datatype similar to undefined
+Value and types are BOTH NULL.
+
+This is not corrected for legacy reasons
+
+### Commnets:
+
+Single line Comment //
+
+Block Comment: Command slash -
+
+/\* \*/
+
+### Markdown Cheat sheet: https://wordpress.com/support/markdown-quick-reference/
 
 ## 2023/10/5 Thurday
 
