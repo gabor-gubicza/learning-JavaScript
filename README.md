@@ -9,6 +9,8 @@ https://www.markdownguide.org/basic-syntax/
 
 ---
 
+### Arrays
+
 ---
 
 ### Functions and Expressions
@@ -20,7 +22,22 @@ Receive data and return data
 Keep the code DRY
 Don't Repeat Yourself!
 
----
+Function Declaration
+
+    function fruitProcessor(apples, oranges) {
+    console.log(apples, oranges);
+    const juice = `Juice with ${apples} apples and ${oranges} oranges.`
+    return juice;
+    }
+
+Function Expression
+
+https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function
+
+Arrow Function
+Arrow Functions don't get This Keyword
+
+Functions calling functions
 
 ### Strict Mode
 
