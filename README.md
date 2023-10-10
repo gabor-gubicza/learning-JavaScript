@@ -2,6 +2,49 @@
 
 Public repo for my learning projects
 
+## 2023/10/08 Sunday JS:
+
+### Objects
+
+Array: Can't be referenced by a name, only order number.
+
+    const jonas = {         //Object litteral syntax
+    firstName: 'Nonas',
+    lastName: 'Schmidt',
+    age: 2037-1991,
+    job: 'teacher',
+    friends: ['Michael', 'Peter', 'Steven']
+    }
+
+Arrays: Ordered data
+
+Object: Unstructured data, that we want to name
+
+Bracket notation: Can be an expression!
+
+    console.log(jonas);
+    console.log(jonas.lastName);
+    console.log(jonas['lastName']);     //Can be an expression here
+
+    const nameKey = 'Name';
+    console.log(jonas['first'+ nameKey]);     //Can be an expression here
+    console.log(jonas['last'+ nameKey]);     //
+
+---
+
+### Array Methods
+
+- **push:** Method that adds elements to the end of the array. push can return tihngs
+- **unshift** . Adds elements to the beginning ofthe array
+- **pop** Removes last element, returns the value
+- **shift**Removes first element, returns the value
+- **indexof** number of position in the array of a position. Doesn't seem to return 2 values if the item is duplicate.
+- **includes**
+
+  const friends = ['Michael', 'Tony', 'Michelle'];
+  friends.push('Jay');
+  console.log(friends);
+
 ## 2023/10/07 Saturday JS: LetConstVar, Operators,
 
 Markdown Syntax:
