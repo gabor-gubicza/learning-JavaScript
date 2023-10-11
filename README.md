@@ -2,6 +2,12 @@
 
 Public repo for my learning projects
 
+## 2023/10/11 Wednesday JS:
+
+### JavaScript
+
+Array: Can't be
+
 ## 2023/10/08 Sunday JS:
 
 ### Objects
