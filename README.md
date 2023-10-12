@@ -4,7 +4,39 @@ Public repo for my learning projects
 
 ## 2023/10/12 Thursday JS:
 
-### JavaScript
+### JavaScript - Objects
+
+    const jonas = {         //Object litteral syntax
+    firstName: 'Jonas',
+    lastName: 'Schmidt',
+    age: 1991,
+    job: 'teacher',
+    friends: ['Michael', 'Peter', 'Steven', 'Gabor', 'Curtis'],
+    hasDriversLicense: true,
+
+    calcAge: function(birthYear){       // Function expression here
+        return 2037-birthYear;
+    }
+
+**Any Function attached to an object is a method!**
+A method is also a property (that holds a function)
+
+    console.log(jonas.calcAge(1991));
+    console.log(jonas['calcAge'](1991));
+
+"this " Operator Don't Repeat Yourself
+
+    calcAge: function() {       // We need Function expression here
+        //console.log(this);
+        return 2037 - this.birthYear;
+    }
+
+Funcion info:
+
+    getInfo: function() {
+        return `${this.firstName} is a ${this.calcAge()} year old ${jonas.job}, and he has ${this.hasDriversLicense ? 'a' : 'no'} drivers License.`;
+
+Jonas is a 46 year old teacher, and he has no drivers License.
 
 ## 2023/10/08 Sunday JS:
 
