@@ -2,11 +2,9 @@
 
 Public repo for my learning projects
 
-## 2023/10/11 Wednesday JS:
+## 2023/10/12 Thursday JS:
 
 ### JavaScript
-
-Array: Can't be
 
 ## 2023/10/08 Sunday JS:
 
