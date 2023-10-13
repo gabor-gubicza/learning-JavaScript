@@ -4,7 +4,7 @@ Public repo for my learning projects
 
 ## 2023/10/13 Friday JS:
 
-### JavaScript - Challenge
+### JavaScript - Loops
 
 ## 2023/10/12 Thursday JS:
 
