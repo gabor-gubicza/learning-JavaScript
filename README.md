@@ -18,6 +18,8 @@ While loop
 LIVE SERVER
 Extension
 
+https://www.javatpoint.com/javascript-loop
+
 ## 2023/10/12 Thursday JS:
 
 ### JavaScript - Objects
