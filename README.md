@@ -6,6 +6,18 @@ Public repo for my learning projects
 
 ### JavaScript - Loops
 
+    for(let rep=1;rep <= 10; rep++) {
+    console.log(`Lifting weights ${rep}`);
+    }
+
+Loop backwards,
+Loop in Loops
+
+While loop
+
+LIVE SERVER
+Extension
+
 ## 2023/10/12 Thursday JS:
 
 ### JavaScript - Objects
