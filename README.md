@@ -2,9 +2,9 @@
 
 Public repo for my learning projects
 
-## 2023/10/14 Saturday JS:
+## 2023/10/14 Saturday JS: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-## 2023/10/13 Friday JS, REACT:
+## 2023/10/13 Friday JS, REACT:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### JavaScript - Loops
 
@@ -22,7 +22,7 @@ Extension
 
 https://www.javatpoint.com/javascript-loop
 
-## 2023/10/12 Thursday JS:
+## 2023/10/12 Thursday JS: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### JavaScript - Objects
 
@@ -58,7 +58,7 @@ Funcion info:
 
 Jonas is a 46 year old teacher, and he has no drivers License.
 
-## 2023/10/08 Sunday JS:
+## 2023/10/08 Sunday JS: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### Objects
 
@@ -101,7 +101,7 @@ Bracket notation: Can be an expression!
   friends.push('Jay');
   console.log(friends);
 
-## 2023/10/07 Saturday JS: LetConstVar, Operators,
+## 2023/10/07 Saturday JS: LetConstVar, Operators, IIIIIIIIIIIIIIIIIIIIIIIIII
 
 Markdown Syntax:
 https://www.markdownguide.org/basic-syntax/
@@ -380,7 +380,7 @@ Make as little variable mutation as possible
 This should be completely avoided. For legacy reasons.
 Old way to defining variables before ES6 (EcmaScript)
 
-## 2023/10/06 Friday JavaScript
+## 2023/10/06 Friday JavaScript IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### Variable notation
 
