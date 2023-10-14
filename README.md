@@ -2,7 +2,9 @@
 
 Public repo for my learning projects
 
-## 2023/10/13 Friday JS:
+## 2023/10/14 Saturday JS:
+
+## 2023/10/13 Friday JS, REACT:
 
 ### JavaScript - Loops
 
