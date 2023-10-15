@@ -2,6 +2,55 @@
 
 Public repo for my learning projects
 
+## 2023/10/15 Sunday TensorFlow: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+---
+
+## Components
+
+React Apps made entirely out of components
+Building blocks of user interfaces in React
+React renders a view for each component
+Building multiple components and combining them as LEGO.
+Nesting comopnents in each other
+
+Component tree.
+
+## Debugging
+
+If there is a problem Check:
+
+1. if the App is running
+2. STOP the App and RESTART. CTRL C
+3. npm start
+4. Check the error message, Google error messages
+5. Always work with ESLINT
+6. Check PROBLEMS tab in VSC
+7. Open up the final codes and compare with tutorial codes.
+
+---
+
+## Pizza App
+
+IT WOOOOORKS!!!!
+npm start was executed in the project main folder a few levers above the installed ackages: SRC and PUB. once in the correct branch, all good. FUCK YES!!!
+
+**_http://localhost:3000/_**
+
+npx create-react-app@5 pizza-menu
+
+https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37350408#overview
+
+Create React App
+https://create-react-app.dev/?ref=jonas.io
+https://vitejs.dev/guide/?ref=jonas.io
+https://gist.githubusercontent.com/gaearon/0275b1e1518599bbeafcde4722e79ed1/raw/db72dcbf3384ee1708c4a07d3be79860db04bff0/example.html
+https://www.javatpoint.com/javascript-loop
+
+---
+
+TensorFlow Starting
+
 ## 2023/10/14 Saturday JS: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ## 2023/10/13 Friday JS, REACT:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
