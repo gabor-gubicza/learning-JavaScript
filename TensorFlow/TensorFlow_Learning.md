@@ -2,6 +2,10 @@ TensorFlow Readme
 
 My progress on TensorFlow learning
 
+## 2023/10/15 Sunday TensorFlow - Colab Udemy course lookup
+
+https://dev.mrdbourke.com/tensorflow-deep-learning/
+
 ## 2023/10/11 Wednesday TensorFlow - Colab
 
 ## 2023/10/10 Tuesday TensorFlow - Colab
