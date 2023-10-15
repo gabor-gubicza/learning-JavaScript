@@ -4,6 +4,45 @@ My progress on TensorFlow learning
 
 ## 2023/10/15 Sunday TensorFlow - Colab Udemy course lookup
 
+    changeable_tensor = tf.Variable([10,7])
+    unchangeable_tensor = tf.constant([10,7])
+
+---
+
+https://www.tensorflow.org/api_docs/python/tf/constant
+
+https://colab.research.google.com/
+
+---
+
+What is a tensor?
+
+scalar
+vector
+tensor
+
+GPU: Graphics Processing Unit, very fast at crunching numbers.
+
+TPU: Tensor Processing Unit. AI accelerotr application specific integrated circuit ASIC
+
+https://www.tensorflow.org/
+
+Why TF?
+
+- Easy model building
+- Robust ML production anywhere
+- Powerful experimental for research
+
+What is TensorFlow?
+
+- End to end platform for machine learning
+- Write fast deep learning code in Python and other accessible languages (Able to run on a GPU/TPU)
+- Able to access many pre-built deep learning modes (TF Hub)
+- Whole Stack: Preprocess data, model data, deploy model in your application
+- Oringinally designed and used in-house by Google (Now open source)
+
+---
+
 https://zerotomastery.io/blog/library?tag=PM&utm_source=udemy&utm_medium=coursecontent
 https://zerotomastery.io/blog/library?utm_source=udemy&utm_medium=coursecontent
 
@@ -11,8 +50,8 @@ What is Deep learning actually used for?
 
 - Recommendation
 - Translation
-- Speech recognition
-- Computer vision
+- Speech recognition - Sequence to sequence (seq2seq)
+- Computer vision (Classification / Regression)
 - Natural Language Processing: NLP: SPAM / NOT SPAM
 
 ---
