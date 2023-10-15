@@ -6,6 +6,32 @@ codesandbox.io
 
 ## 2023/10/14 Saturday JS IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
+---
+
+Create-Rect-App
+
+- It was developed many years ago, uses slow, and outdated technologies
+  - use for tutorial
+- Prettier
+- Jest
+- ESLINT
+- Prettier
+
+Vite - modern build tool
+Use for modern real-world application
+
+- Extremely fast - hot module replacement HMR and bundling
+
+React Frameworks:
+
+Framework Built on top of React Library
+
+- Next.js
+  - contains solutions for routing, data fetching and server side rendering
+- Remix
+
+---
+
     <script src="https://unpkg.com/react@18/umd/react.development.js"></script>     // CORE React Library
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>     // Render react components in the DOM
 
