@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/10/17 Tuesday
+
+17:00 Codecool coding academy
+
 ## 2023/10/16 Monday REACT
 
 ## 2023/10/15 Sunday TensorFlow, REACT IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
