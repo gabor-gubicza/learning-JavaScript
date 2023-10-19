@@ -4,7 +4,60 @@ Public repo for my learning projects
 
 ## 2023/10/19 Thursday
 
+91.
+
+How JS is executed and the Call Stack
+
+---
+
 90 The JS Engine and Runtime:
+
+### JS RUNTIME
+
+JS Runtime: The borwser.
+Every JS Runtime has a JS Engine.
+
+WEB APIs - These are part of the Runtime
+DOM, Timers, Fetch API
+
+Callback Queue - Data structure that contains all the callback functions that are ready to be executed. (Click, Timer, Data)
+
+Event Loop places callBakc functions from the callback queue to the call stack so they can be executed.
+
+If it's not in the browser ther is no WEB API, C++ Bindings, and Thread Pool
+
+### JS Engine:
+
+The program that executes the JS Code
+Every Browser has their own engine. The most known engine is the V8 of Google. Powers Google Chrome and Node JS. the JS runtime. Make serverside applications with JavaScript enginer
+
+Understanding JS Engine component
+
+**CALL STACK** - Objects executed.
+Is where our code is executed. in the Execution context
+
+**HEAP** - Objects Tored.
+Unstructured memory pool which stores all the object that our application needs.
+
+Compilation: The entire Source code is converted to machine code at once. This machine code is then written to a portable file that can be executed to any computer.
+
+Execution can happen after the compilation.
+
+Interpretation: An interpreter that executes the source code line by line. Converted happens right at execution.
+
+Interpreted languages are much slower than compiled languages.
+
+People hting JS is an interpreted language
+
+JS uses a mix of the compilation and interpretation called Just In Time Compilation. This compiles the entire code to machine code at once, and executes right away.
+
+1. Parse the code (Reading) into the Abstract Syntax Tree (AST). First splitting each line of code , then saving these pieces into a structure tree.
+   AST has nothing to do with the DOM tree
+2. Compilation. Takes the AST and compiles it to Machine Code.
+3. Execution
+4. During Execution is optimized
+
+const x= 23
 
 ---
 
