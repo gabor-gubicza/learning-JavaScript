@@ -4,12 +4,47 @@ Public repo for my learning projects
 
 ## 2023/10/19 Thursday
 
+92. Scope and the Scope chain
+
+---
+
 91.
 
 How JS is executed and the Call Stack
 
 Code ready to be executed.
 Creation of global execution context (For top level code)
+
+Let's suppose our code got compiled, code can be executed now.
+Global execution context can be created for top level code.
+
+Content in the function is only executed when the function is called
+
+Execution context. Environemnt a piece of a JS code is executed
+
+Pizza (JS Code) Box (Execution conext)
+Only 1 execution conext. wher top level code will execute
+Execution of Functions and Waiting for Callbacks
+
+**What's inside the Execution Context (EC)**
+
+- Variable environment
+  - Let, Const, var
+  - Functions
+  - Arguments object
+- Scope Chain
+- THIS Keyword
+
+**_Arrow functions don't thave the arguments object and THIS Keyword!!!_**
+
+CALL STACK
+Top level code start xecution, a global EC will be created
+This GEC will be placed in the CALL STACK
+Function is placed in the Call stack so it's new Execution Context
+
+Call stack: Order of execution is maintained.
+
+Then we will be back at the GLOBAL EXECUTION CONTEXT
 
 ---
 
@@ -40,7 +75,7 @@ Understanding JS Engine component
 Is where our code is executed. in the Execution context
 
 **HEAP** - Objects Tored.
-Unstructured memory pool which stores all the object that our application needs.
+Unstructured memory pool which stores all the object that our application needs. Memory Tab in Chrome, and make a snapshot of the HEAP.
 
 Compilation: The entire Source code is converted to machine code at once. This machine code is then written to a portable file that can be executed to any computer.
 
@@ -105,7 +140,8 @@ Other classification:
 - Imperative
 - Declarative
 
-Prototype based Object Oriented
+### Prototype based Object Oriented
+
 Almost everything in JS is an object
 Prototypal inheritance
 Prototype
@@ -136,6 +172,10 @@ Non-Blocking behaviour
 ### Non blocking event loop
 
 Event Loop- Takes long running tasks, executes them in the background and puts them back in the main thread once they are finished.
+
+Microtask queue
+task queue
+Promises
 
 ## 2023/10/18 Wednesday
 
