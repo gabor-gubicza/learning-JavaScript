@@ -8,6 +8,9 @@ Public repo for my learning projects
 
 How JS is executed and the Call Stack
 
+Code ready to be executed.
+Creation of global execution context (For top level code)
+
 ---
 
 90 The JS Engine and Runtime:
@@ -63,6 +66,9 @@ const x= 23
 
 JavaScript 89. High-Level Overview
 
+https://www.youtube.com/watch?v=FSs_JYwnAdI
+ECMA 262
+
 **Surface**
 
 JavaScript is a High-Level, Object Oriented, Multi Paradigm programming
@@ -91,7 +97,7 @@ An approach or mindset to structure code.
 
 - Procedural Programming:
 
-- Object Oriented OOP
+- Object Oriented OOP (Imperative)
 - Functional Programmin FP
 
 Other classification:
