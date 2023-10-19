@@ -4,6 +4,80 @@ Public repo for my learning projects
 
 ## 2023/10/19 Thursday
 
+90 The JS Engine and Runtime:
+
+---
+
+JavaScript 89. High-Level Overview
+
+**Surface**
+
+JavaScript is a High-Level, Object Oriented, Multi Paradigm programming
+language
+
+**In detail**
+
+JavaScript is a High-Level, Prototype based Object Oriented, LóMulti Paradigm Interpreted or Just-In-Time Compiled, Dynamic Single Threaded, Garbage collected programming language with First-Class functions and a non-blocking event loop concurrency model
+
+### High-Level
+
+Low level: Developer has to manage resources manually
+high Level: Developer does not have to worry about resources everything happens mautomaticall, eaasier, but never will be as fast as low level
+
+### Garbage-collected
+
+Algorithm: Removes old unused objects from the memory not to clog it up with unnecessary stuff.
+
+### Interpreted or Just In Time comppiled:\*\*
+
+Human readable machine code, this is compiled or interpreted to machine code.
+
+### Multi Paradigm
+
+An approach or mindset to structure code.
+
+- Procedural Programming:
+
+- Object Oriented OOP
+- Functional Programmin FP
+
+Other classification:
+
+- Imperative
+- Declarative
+
+Prototype based Object Oriented
+Almost everything in JS is an object
+Prototypal inheritance
+Prototype
+Array prototype: Contains all the array methods.
+Our arrays will inherit the methods.
+
+### First-Class functions
+
+Functions are treated as variables.
+We can pass functions into other functinos.
+Functions are created as variables
+We can return functions from functions
+We can use power ful techniques, and Functional Programming
+
+### Dynamic
+
+Dynamically typed.
+In JS we don't assign datatypes to variables , they only became known ehtn the JS engine executes our code.
+Type can be reassigned. This can be a source for bugs. Look into TypeScript
+
+### Single Threaded
+
+Concurrency model: Fancy term: how the JS engine handles multiple things at the same time.
+JS runs in a single thread. We need to be able to handle multiple things at the same time.
+What if there is a long task? it would block a single thread.
+Non-Blocking behaviour
+
+### Non blocking event loop
+
+Event Loop- Takes long running tasks, executes them in the background and puts them back in the main thread once they are finished.
+
 ## 2023/10/18 Wednesday
 
 ## 2023/10/17 Tuesday
