@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/10/20 Friday
+
+Project Work
+
 ## 2023/10/19 Thursday
 
 92. Scope and the Scope chain
