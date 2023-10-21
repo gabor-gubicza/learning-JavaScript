@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/10/21 Sat
+
+Famiy gathering
+
 ## 2023/10/20 Friday
 
 Project Work
