@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/10/22 Sun
+
+Nothing to report
+
 ## 2023/10/21 Sat
 
 Famiy gathering
