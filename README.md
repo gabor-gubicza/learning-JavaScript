@@ -4,9 +4,21 @@ Public repo for my learning projects
 
 ## 2023/10/23 Mon
 
+## **Hoisting in JS**
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648493#content
+
+## **Scoping in practice:**
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648487#content
+
+To be finished
+
+## **Scoping:**
+
 https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648481#content
 
-**Scoping:** How our program's variables are organized and accessed.
+How our program's variables are organized and accessed.
 Where do variables live?
 
 Lexical scoping: scoping is controlled by placement of functions and blocks in the code
@@ -19,6 +31,18 @@ There is:
 - **Block scope (ES6):** Variables accessibloe INSIDE only. This only applies to LET and CONST. Functions are block scoped
 
 Scope of the variable: Entire region of the code where the variable is accessed
+
+Nested scopes in case of nested functions
+Every scope has access to all the scope directly above it.
+If Function can't find a variable in it's own scope it'll look in its parent funciton.
+
+An outer scope will never have access to a lower scope.
+
+Scope can look UP but not DOWN.
+
+---
+
+Scope chain vs Call stack
 
 ## 2023/10/22 Sun
 
