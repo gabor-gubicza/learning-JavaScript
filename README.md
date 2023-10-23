@@ -4,9 +4,15 @@ Public repo for my learning projects
 
 ## 2023/10/23 Mon
 
+## **Data Structures**
+
 ## **Hoisting in JS**
 
 https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648493#content
+
+Makes some type of variables accessible in the code before they are actually declared
+
+To be finished
 
 ## **Scoping in practice:**
 
