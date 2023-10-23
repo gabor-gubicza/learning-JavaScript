@@ -4,10 +4,21 @@ Public repo for my learning projects
 
 ## 2023/10/23 Mon
 
-Nothing to report
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648481#content
 
 **Scoping:** How our program's variables are organized and accessed.
 Where do variables live?
+
+Lexical scoping: scoping is controlled by placement of functions and blocks in the code
+
+Scope: Space or environment in which a certain variable is **declared**
+There is:
+
+- **Global scope:** Outside of ANY function or block. Variables accessed EVERYWHERE
+- **Function scope:** Variables accessible only INSIDE the funciton, not outside. Also called local scope
+- **Block scope (ES6):** Variables accessibloe INSIDE only. This only applies to LET and CONST. Functions are block scoped
+
+Scope of the variable: Entire region of the code where the variable is accessed
 
 ## 2023/10/22 Sun
 
