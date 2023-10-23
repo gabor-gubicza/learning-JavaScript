@@ -6,6 +6,9 @@ Public repo for my learning projects
 
 Nothing to report
 
+**Scoping:** How our program's variables are organized and accessed.
+Where do variables live?
+
 ## 2023/10/22 Sun
 
 Nothing to report
