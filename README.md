@@ -4,6 +4,20 @@ Public repo for my learning projects
 
 ## 2023/10/26 Thu
 
+Snippets doesn't work. Need to troubleshoot:
+cl: console.log();
+
+    "Print to console": {
+      "prefix": "cl",
+      "scope": "javascript,typescript,javascriptreact",
+      "body": ["console.log($1)"],
+      "description": "console.log"
+    },
+
+59
+
+Temperature meter: Absolute of min, max, error processing
+
 ## 2023/10/25 Wed
 
 Project Work
