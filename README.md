@@ -4,6 +4,9 @@ Public repo for my learning projects
 
 ## 2023/10/26 Thu
 
+Pull from Git repo to the MacBook machine.
+Used GitLens
+
 ### 60 Bugs
 
 - Identify
