@@ -14,6 +14,8 @@ cl: console.log();
       "description": "console.log"
     },
 
+Fuck.. Snippet file had a remaining "{" character at the very beginning. It was residual from the copy paste. Snippets work OK now. Problem solved. F YES
+
 59
 
 Temperature meter: Absolute of min, max, error processing
