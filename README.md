@@ -4,6 +4,10 @@ Public repo for my learning projects
 
 ## 2023/10/26 Thu
 
+### HTML
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648385#content
+
 Pull from Git repo to the MacBook machine.
 Used GitLens
 
