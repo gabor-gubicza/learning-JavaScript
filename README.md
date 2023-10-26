@@ -4,6 +4,24 @@ Public repo for my learning projects
 
 ## 2023/10/26 Thu
 
+### 60 Bugs
+
+- Identify
+  - During development
+  - Testing Software
+  - User Reports during Production
+  - Context: Browsers, users
+- Find
+  - Developer Console
+  - Debugger
+- Fix
+  - Replace worngs olutinos with new correct solution
+- Prevent
+  - Searching for the same bug in similar code
+  - Writing tests using testing software
+
+### 59. Temperature Amplitude, Concat Arrays
+
 Snippets doesn't work. Need to troubleshoot:
 cl: console.log();
 
@@ -19,6 +37,59 @@ Fuck.. Snippet file had a remaining "{" character at the very beginning. It was 
 59
 
 Temperature meter: Absolute of min, max, error processing
+
+    const calcTempAmplitude = function (temps) {
+    let max = temps[0];
+    let min = temps[0];
+    for (let i = 0; i < temps.length; i++) {
+    const curTemp = temps[i];
+    if (typeof curTemp !== 'number') continue;
+    if (curTemp > max) max = curTemp;
+    if (curTemp < min) min = curTemp;
+    }
+    console.log(max);
+    console.log(min);
+    return max - min;
+    }  ;
+    //calcTempAmplitude([3, 7, 4, 8, 10, 1]);
+    const amplitude = calcTempAmplitude(temperatures);
+    console.log(amplitude);
+
+Stack Overflow
+MDN
+
+Complete, but unofficial documentation of JS
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+
+    'use strict';
+    const temperatures1 = [3, -2, -6, -1, 'error', 9, 13, 17, 15, 14, 9, 5];
+    const temperatures2 = [13,  -22,  -62,  -12,  'error',  92,  123,  127,  152,  124,  29,  25,];
+    const temperatures = temperatures1.concat(temperatures2);
+    console.log(temperatures);
+    // 1) Understand the problem
+    //Temp Amplitude? Max / min diff
+    // what's a sensor error - ignore the data
+    // 2) Breaking the problem down to smaller pieces
+    // - How to ignore errors?
+    // - Find max, min value
+    const calcTempAmplitude = function (t1, t2) {
+    const temps = t1.concat(t2);
+    let max = temps[0];
+    let min = temps[0];
+    for (let i = 0; i < temps.length; i++) {
+    const curTemp = temps[i];
+    if (typeof curTemp !== 'number') continue;
+    if (curTemp > max) max = curTemp;
+    if (curTemp < min) min = curTemp;
+    }
+    console.log(max);
+    console.log(min);
+    return max - min;
+    };
+    //calcTempAmplitude([3, 7, 4, 8, 10, 1]);
+    const amplitude = calcTempAmplitude(temperatures1, temperatures2);
+    console.log(amplitude);
 
 ## 2023/10/25 Wed
 
