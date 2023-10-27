@@ -2,6 +2,8 @@
 
 Public repo for my learning projects
 
+## 2023/10/27 Friday
+
 ## 2023/10/26 Thu
 
 ### HTML
