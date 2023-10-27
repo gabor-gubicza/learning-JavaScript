@@ -1,6 +1,7 @@
 # learning-public
 
 Public repo for my learning projects
+Friday
 
 ## 2023/10/26 Thu
 
@@ -15,7 +16,7 @@ Public repo for my learning projects
   - Developer Console
   - Debugger
 - Fix
-  - Replace worngs olutinos with new correct solution
+  - Replace wrong solutions with new correct solution
 - Prevent
   - Searching for the same bug in similar code
   - Writing tests using testing software
