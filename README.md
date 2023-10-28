@@ -9,6 +9,31 @@ Friday
 
 https://www.youtube.com/watch?v=_gpNPNMYbVY&ab_channel=MonsterlessonsAcademy
 
+### CSS Course 67
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648397#content
+
+CSS Box Model
+
+Each element can be see nas a box. margin, padding, width, haighet, content.
+
+- Content: All the text, images: width, height
+- Padding: Around the content
+- Border: around the padding
+- Margin: Space between the boxes:
+- Fill area: Area that gets filled
+
+Some elements get some margin by default
+
+Global reset:
+
+    *{
+    margin: 0;
+    padding: 0;
+    }
+
+Child selector
+
 ### HTML
 
 Head is the settings:

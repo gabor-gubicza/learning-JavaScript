@@ -1,11 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(241, 224, 136);
   font-family: Arial;
   font-size: 20px;
+  padding: 50;
 }
 
 h1 {
+  font-size: 40px;
+  margin-bottom: 25;
+}
+
+h2 {
   font-size: 20px;
+  margin-bottom: 20;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20;
 }
 
 .first {
@@ -13,6 +31,23 @@ h1 {
 }
 
 #your-name {
-  background-color: rgb(164, 239, 164);
-  border: 2px solid rgb(200, 24, 204);
+  background-color: rgb(239, 209, 164);
+  border: 10px solid rgb(0, 0, 0);
+  width: 400;
+  padding: 25px;
+  margin-top: 50;
+}
+
+input,
+button {
+  padding: 10;
+  font-size: 16;
+}
+
+#cnn-image {
+  width: 600px;
+}
+
+#your-name h2 {
+  color: olivedrab;
 }
