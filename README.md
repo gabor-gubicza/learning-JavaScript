@@ -3,7 +3,13 @@
 Public repo for my learning projects
 Friday
 
-## 2023/10/28 Saturday HTML
+## 2023/10/28 Saturday HTML, CSS, GIT
+
+### GIT Commit message example:
+
+https://www.youtube.com/watch?v=_gpNPNMYbVY&ab_channel=MonsterlessonsAcademy
+
+### HTML
 
 Head is the settings:
 
