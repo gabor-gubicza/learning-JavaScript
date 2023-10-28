@@ -23,6 +23,10 @@ These two can be used everywhere:
   DIV is a generic box with no meaning. SEO: Better specific boxes.
   Use appropriate elements: Semantic HTML
 
+### 66. Use CSS to Style elements
+
+Style goes to the head
+
 ## 2023/10/27 Friday
 
 ## 2023/10/26 Thu
