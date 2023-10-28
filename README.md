@@ -3,7 +3,25 @@
 Public repo for my learning projects
 Friday
 
-## 2023/10/28 Saturday
+## 2023/10/28 Saturday HTML
+
+Head is the settings:
+
+Exclamation mark-TAB makes the HTML structure
+
+### Attributes HTML
+
+Describe elements
+You can see <a href="https://www.linkedin.com/in/gaborgubicza/">Gabor on LinkedIn</a>
+These two can be used everywhere:
+
+- Classes:
+- IDs: IDs have to be unique. Can only be used once in the page
+
+  CSS convention: Hyphen. JS convention: camel case: course-image vs courseImage
+
+  DIV is a generic box with no meaning. SEO: Better specific boxes.
+  Use appropriate elements: Semantic HTML
 
 ## 2023/10/27 Friday
 
