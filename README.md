@@ -1,7 +1,8 @@
 # learning-public
 
 Public repo for my learning projects
-Friday
+
+## 2023/10/30 Monday Debugging
 
 ## 2023/10/29 Sunday Debugging
 
