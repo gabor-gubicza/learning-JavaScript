@@ -21,7 +21,13 @@ Public repo for my learning projects
     -Search for similar bugs
     -writing tests using testing SW
 
-  61.
+  61.     console.log(measurement);
+          console.table(measurement);
+          console.log(measurement.value);
+          console.warn(measurement.value);
+          console.error(measurement.value);
+
+      Breakpoints
 
 VSC Shortcuts Arjan codes
 
