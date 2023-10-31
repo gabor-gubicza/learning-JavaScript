@@ -4,6 +4,8 @@ Public repo for my learning projects
 
 ## 2023/10/31 Tuesday Debugging, Flutter
 
+Repo renamed
+
 GitHub Clone 2nd repo in new VSC Window
 
 https://www.youtube.com/watch?v=TviP5rCZiy0&ab_channel=TestingAI
