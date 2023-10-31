@@ -4,6 +4,29 @@ Public repo for my learning projects
 
 ## 2023/10/30 Tuesday Debugging, Flutter
 
+60. The Debugging Process
+
+- Identifying
+  - During developmetn
+  - Testing SW
+  - User reports during production
+  - Context: browser, users, etc.
+- Find
+  - Developer console
+  - Debugger
+- Fix
+
+  - Replace wrong solution with new one
+    -Prevent
+    -Search for similar bugs
+    -writing tests using testing SW
+
+  61.
+
+VSC Shortcuts Arjan codes
+
+- https://www.youtube.com/watch?v=dI34jrEtmB0&ab_channel=ArjanCodes
+
 ## 2023/10/30 Monday
 
 ## 2023/10/29 Sunday Debugging
