@@ -2,7 +2,9 @@
 
 Public repo for my learning projects
 
-## 2023/10/30 Monday Debugging
+## 2023/10/30 Tuesday Debugging, Flutter
+
+## 2023/10/30 Monday
 
 ## 2023/10/29 Sunday Debugging
 
