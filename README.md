@@ -4,7 +4,11 @@ Public repo for my learning projects
 
 ## 2023/10/30 Tuesday Debugging, Flutter
 
-60. The Debugging Process
+### 70. Project: Guess my number
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648403#content
+
+### 60. The Debugging Process
 
 - Identifying
   - During developmetn
@@ -21,13 +25,19 @@ Public repo for my learning projects
     -Search for similar bugs
     -writing tests using testing SW
 
-  61.     console.log(measurement);
-          console.table(measurement);
-          console.log(measurement.value);
-          console.warn(measurement.value);
-          console.error(measurement.value);
+  61. Debugging
 
-      Breakpoints
+  https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648363#content
+
+      console.log(measurement);
+      console.table(measurement);
+      console.log(measurement.value);
+      console.warn(measurement.value);
+      console.error(measurement.value);
+
+Breakpoints
+
+    debugger;
 
 VSC Shortcuts Arjan codes
 
