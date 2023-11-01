@@ -2,6 +2,11 @@
 
 Public repo for my learning projects
 
+## 2023/11/01 Wednesday Chrome extension development
+
+https://platform.openai.com/docs/introduction
+Udemy Courses on Chrome Extensions are Baad
+
 ## 2023/10/31 Tuesday Debugging, Flutter
 
 Repo renamed
