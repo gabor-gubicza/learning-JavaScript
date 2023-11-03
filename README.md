@@ -2,7 +2,21 @@
 
 Public repo for my learning projects
 
+## 2023/11/03 Friday Engineering Fit project
+
+I'm really interested in this project so I'm pausing my course learning process.
+
+## 2023/11/02 Thursday Engineering Fit project
+
+JavaScript structure
+https://www.youtube.com/watch?v=exiC1Qsv5mc
+namespaces
+
 ## 2023/11/01 Wednesday Chrome extension development
+
+JSON
+
+Engineering Fit Scripts
 
 https://platform.openai.com/docs/introduction
 Udemy Courses on Chrome Extensions are Baad
