@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/11/04 Saturday
+
+Resting
+
 ## 2023/11/03 Friday Engineering Fit project
 
 I'm really interested in this project so I'm pausing my course learning process.
