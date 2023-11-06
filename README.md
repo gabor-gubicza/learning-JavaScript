@@ -2,6 +2,23 @@
 
 Public repo for my learning projects
 
+## 2023/11/06 Monday
+
+Engineering Fitting Program Error checking refactoring, subdividing error checking to a master function with subfunctions
+
+- Is input empty or nil
+- Length of input
+- removing special characters
+- remove spaces
+- is the first character a number?
+- Extract the dimension from the string
+
+WIP: Extracting a substring which classifies the tolerance
+
+## 2023/11/05 Sunday
+
+Resting
+
 ## 2023/11/04 Saturday
 
 Resting
