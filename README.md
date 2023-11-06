@@ -26,6 +26,17 @@ The program automatically found the
 
 and Handeld erros.
 
+### Reformatting the Tolerance output:
+
+    Input String:     123,5 H6
+    String is OK: Max char: 18 Input length: 8
+    Original string:  123,5 H6
+    New string:       123.5H6
+    Dimenion is:      123.5
+    Tolerance 1:      None
+    Tolerance 1:      H6
+    { dimension: 123.5, holeTol: 'H6', shaftTol: undefined }
+
 ### Case 1: Both Hole AND Shaft tolerances
 
 %12,5/h6tr5H6
