@@ -41,6 +41,17 @@ So the functions search for th relevant lookup string array.
     output.holeTol = getTolShaft2(Dim.ToleranceString, 'shaft');
     output.holeTol = getTolShaft2(Dim.ToleranceString, 'hole');
 
+RESULT IS:
+
+    Input String:     123,5 H6
+    String is OK: Max char: 18 Input length: 8
+    Original string:  123,5 H6
+    New string:       123.5H6
+    Dimenion is:      123.5
+    Shaft tolerance:  None
+    Hole  tolerance:  H6
+    { dimension: 123.5, holeTol: 'H6', shaftTol: 'x1' }
+
 ---
 
 Engineering Fitting Program Error checking refactoring, subdividing error checking to a master function with subfunctions
