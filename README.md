@@ -4,6 +4,45 @@ Public repo for my learning projects
 
 ## 2023/11/06 Monday
 
+### Reformatting the getTolShaft Function so code is DRY
+
+    function getTolShaft2(stringInput, TolType) {
+      //TolType: hole or shaft
+      let TolTypeString = '';
+      if (TolType === 'hole') {
+        substrings = toleranceListHole;
+        TolTypeString = 'Hole ';
+      } else if (TolType === 'shaft') {
+        substrings = toleranceListShaft;
+        TolTypeString = 'Shaft';
+      }
+
+      const foundSubstrings = [];
+      for (const substring of substrings) {
+        if (stringInput.includes(substring)) {
+          foundSubstrings.push(substring);
+        }
+      }
+      if (foundSubstrings[0] === null || foundSubstrings[0] ===     undefined || foundSubstrings[0] === '') {
+        console.error(`${TolTypeString} tolerance:  None`);
+      } else {
+        console.log(`${TolTypeString} tolerance:  ${foundSubstrings[0]}`);
+        return foundSubstrings[0];
+      }
+    }
+
+So the functions search for th relevant lookup string array.
+
+    Instead of this:
+    //output.shaftTol = getTolShaft(Dim.ToleranceString, toleranceListShaft);
+    //output.holeTol = getTolShaft(Dim.ToleranceString, toleranceListHole);
+
+    this:
+    output.holeTol = getTolShaft2(Dim.ToleranceString, 'shaft');
+    output.holeTol = getTolShaft2(Dim.ToleranceString, 'hole');
+
+---
+
 Engineering Fitting Program Error checking refactoring, subdividing error checking to a master function with subfunctions
 
 - Is input empty or nil
