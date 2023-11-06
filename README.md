@@ -15,6 +15,63 @@ Engineering Fitting Program Error checking refactoring, subdividing error checki
 
 WIP: Extracting a substring which classifies the tolerance
 
+I relied heavily on ChatGPT 3.5 during development. This is pretty awesome. Result output:
+
+In the string: **%12,5/h6tr5H6**
+The program automatically found the
+
+- Dimension: 12.5
+- hole tolerance: h6
+- Shaft toelrance: H6
+
+and Handeld erros.
+
+    %12,5/h6tr5H6
+    String is OK: Max char: 18
+    Original string: %12,5/h6tr5H6
+    New string: 12.5h6tr5H6
+    inputString:12.5h6tr5H6
+    first letter position is: 4
+    Dimenion is:           12.5
+    tolerance string is FN:   h6tr5H6
+    foundSubstrings: h6
+    foundSubstrings: H6
+    Shaft tolerance Main is: h6
+    { dimension: 12.5, holeTol: 'H6', shaftTol: 'h6' }
+
+### Case 1: Both Hole AND Shaft tolerances
+
+%12,5/h6tr5H6
+
+{ dimension: 12.5, holeTol: 'H6', shaftTol: 'h6' }
+
+### Case 2: Hole tolerance only
+
+### Case 3: Shafte tolerance only
+
+12.5g6
+{ dimension: 12.5, holeTol: undefined, shaftTol: 'g6' }
+
+### Case 4: No tolerances
+
+### Case 5: Empty or Null String
+
+Inpput: ""
+{ dimension: 0, holeTol: undefined, shaftTol: undefined }
+
+    String is empty or null.
+    String is OK: Max char: 18
+    Original string:
+    New string:
+    inputString:
+    first letter position is: -1
+    Dimenion is:           0
+    tolerance string is FN:
+    There is no Shaft Tolerance present.
+    There is no Shaft Tolerance present.
+    Shaft tolerance Main is: undefined
+    { dimension: 0, holeTol: undefined, shaftTol: undefined }
+
 ## 2023/11/05 Sunday
 
 Resting
