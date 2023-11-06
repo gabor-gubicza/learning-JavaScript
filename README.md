@@ -26,6 +26,12 @@ The program automatically found the
 
 and Handeld erros.
 
+### Case 1: Both Hole AND Shaft tolerances
+
+%12,5/h6tr5H6
+
+{ dimension: 12.5, holeTol: 'H6', shaftTol: 'h6' }
+
     %12,5/h6tr5H6
     String is OK: Max char: 18
     Original string: %12,5/h6tr5H6
@@ -39,20 +45,50 @@ and Handeld erros.
     Shaft tolerance Main is: h6
     { dimension: 12.5, holeTol: 'H6', shaftTol: 'h6' }
 
-### Case 1: Both Hole AND Shaft tolerances
-
-%12,5/h6tr5H6
-
-{ dimension: 12.5, holeTol: 'H6', shaftTol: 'h6' }
-
 ### Case 2: Hole tolerance only
 
-### Case 3: Shafte tolerance only
+    123,5H6
+    String is OK: Max char: 18
+    Original string: 123,5H6
+    New string: 123.5H6
+    inputString:123.5H6
+    first letter position is: 5
+    Dimenion is:           123.5
+    tolerance string is FN:   H6
+    There is no Shaft Tolerance present.
+    foundSubstrings: H6
+    Shaft tolerance Main is: undefined
+    { dimension: 123.5, holeTol: 'H6', shaftTol: undefined }
 
-12.5g6
-{ dimension: 12.5, holeTol: undefined, shaftTol: 'g6' }
+### Case 3: Shaft tolerance only
+
+    12.5g6
+    String is OK: Max char: 18
+    Original string: 12.5g6
+    New string: 12.5g6
+    inputString:12.5g6
+    first letter position is: 4
+    Dimenion is:           12.5
+    tolerance string is FN:   g6
+    foundSubstrings: g6
+    There is no Shaft Tolerance present.
+    Shaft tolerance Main is: g6
+    { dimension: 12.5, holeTol: undefined, shaftTol: 'g6' }
 
 ### Case 4: No tolerances
+
+    36,45
+    String is OK: Max char: 18
+    Original string: 36,45
+    New string: 36.45
+    inputString:36.45
+    first letter position is: -1
+    Dimenion is:           36.4
+    tolerance string is FN:   5
+    There is no Shaft Tolerance present.
+    Shaft tolerance Main is: undefined
+    There is no Shaft Tolerance present.
+    { dimension: 36.4, holeTol: undefined, shaftTol: undefined }
 
 ### Case 5: Empty or Null String
 
