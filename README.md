@@ -14,7 +14,7 @@ Reformatting the merged output:
     ------ Input Decoding ------
 
     String is OK:     Max   char: 18
-                  Input char: 15
+                      Input char: 15
     Original string:  %132,5/a13tr5H6
     New string:       132.5a13tr5H6
     Dimension is:     132.5 mm
@@ -30,22 +30,22 @@ Reformatting the merged output:
     Column: 12, Row: 3
 
     Deviation:       Max: -1090 um,
-                    Min: -460 um
+                     Min: -460 um
                      Abs: 630 um
 
     Tolerance zone:  Max: 131.410 mm
-                    Min: 132.040 mm
+                     Min: 132.040 mm
 
     Input Dimension: 132.5 mm
     Input Tolerance: H6 ->  Hole
     Column: 11, Row: 27
 
     Deviation:       Max: 0 um,
-                    Min: 25 um
-                    Abs: 25 um
+                     Min: 25 um
+                     Abs: 25 um
 
     Tolerance zone:  Max: 132.500 mm
-                    Min: 132.525 mm
+                     Min: 132.525 mm
 
     [Done] exited with code=0 in 0.311 seconds
 
