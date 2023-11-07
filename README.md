@@ -6,6 +6,20 @@ Public repo for my learning projects
 
 ### JavaScript Complete Course
 
+#### 73 Handling Click Eventss
+
+. is the class selector
+
+#### 72 Selecting and Manipulating Elements
+
+    'use strict';
+    console.log(document.querySelector('.message').textContent);
+    document.querySelector('.message').textContent = 'Correct Number';
+    document.querySelector('.number').textContent = 13;
+    document.querySelector('.score').textContent = 10;
+    console.log(document.querySelector('.guess').value);
+    document.querySelector('.guess').value = 23;
+
 #### 71 What's the DOM and DOM Manipulation
 
 DOM: Document Object Model
@@ -21,7 +35,10 @@ DOM and DOM methods are part of the WEB API s. we can access these APIs with JS.
 
 API are written in JS are ready to be interacted with.
 
-#### 72 Selecting and Manipulating Elements
+#### 70. PROJECT #1: Guess My Number!
+
+    'use strict';
+    console.log(document.querySelector('.message').textContent);
 
 ### Engineering Fit program
 
