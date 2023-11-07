@@ -10,6 +10,15 @@ Public repo for my learning projects
 
 . is the class selector
 
+    document.querySelector('.check').addEventListener('click', function () {
+      const guess = document.querySelector('.guess').value;
+      console.log(guess, typeof guess);
+
+      if (!guess) {
+        document.querySelector('.message').textContent = 'No Number';
+      }
+    });
+
 #### 72 Selecting and Manipulating Elements
 
     'use strict';
