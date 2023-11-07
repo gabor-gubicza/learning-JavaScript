@@ -4,6 +4,27 @@ Public repo for my learning projects
 
 ## 2023/11/07 Tuesday
 
+### JavaScript Complete Course
+
+#### 71 What's the DOM and DOM Manipulation
+
+DOM: Document Object Model
+Structured representation of HTML focuments
+Allpws JS to access html elements and styles to manipulat them.
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648405#content
+
+JS is the dialect of the ECMA Script.
+JS in the browser
+
+DOM and DOM methods are part of the WEB API s. we can access these APIs with JS.
+
+API are written in JS are ready to be interacted with.
+
+#### 72 Selecting and Manipulating Elements
+
+### Engineering Fit program
+
 Merging the String Checking and the Loookup table programs.
 Went without a problem! Awesome!
 
