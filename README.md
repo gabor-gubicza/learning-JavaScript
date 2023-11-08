@@ -2,7 +2,11 @@
 
 Public repo for my learning projects
 
+## 2023/11/08 Wednesday
+
 ## 2023/11/07 Tuesday
+
+### 74. Implementing the Game Logic
 
 ### JavaScript Complete Course
 
@@ -13,7 +17,6 @@ Public repo for my learning projects
     document.querySelector('.check').addEventListener('click', function () {
       const guess = document.querySelector('.guess').value;
       console.log(guess, typeof guess);
-
       if (!guess) {
         document.querySelector('.message').textContent = 'No Number';
       }
