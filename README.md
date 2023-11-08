@@ -2,11 +2,13 @@
 
 Public repo for my learning projects
 
+### 74. Implementing the Game Logic
+
 ## 2023/11/08 Wednesday
 
-## 2023/11/07 Tuesday
+Project work - Mechanical Engineering
 
-### 74. Implementing the Game Logic
+## 2023/11/07 Tuesday
 
 ### JavaScript Complete Course
 
