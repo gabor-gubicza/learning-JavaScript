@@ -2,7 +2,13 @@
 
 Public repo for my learning projects
 
+## 2023/11/09 Thursday
+
+Project Work - Mechanical Engineering
+
 ## 2023/11/08 Wednesday
+
+Project Work - Mechanical Engineering
 
 ## 2023/11/07 Tuesday
 
