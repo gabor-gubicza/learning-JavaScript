@@ -2,7 +2,11 @@
 
 Public repo for my learning projects
 
+## 2023/11/10 Friday
+
+Project Work - Mechanical Engineering
 <<<<<<< HEAD
+
 ## 2023/11/09 Thursday
 
 Project Work - Mechanical Engineering
@@ -12,13 +16,16 @@ Project Work - Mechanical Engineering
 Project Work - Mechanical Engineering
 
 ## 2023/11/07 Tuesday
+
 =======
+
 ### 74. Implementing the Game Logic
 
 ## 2023/11/08 Wednesday
 
 Project work - Mechanical Engineering
->>>>>>> 5142880c2dde6d169a89d36581d9a68da9b16cb6
+
+> > > > > > > 5142880c2dde6d169a89d36581d9a68da9b16cb6
 
 Formatting
 
