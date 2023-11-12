@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/11/12 Sunday
+
+Family time
+
 ## 2023/11/11 Saturday
 
 Family time
