@@ -6,7 +6,30 @@ Public repo for my learning projects
 
 Project Work - Mechanical Engineering
 
+### 75. Manipulating CSS style
+
+    document.querySelector('body').style.backgroundColor = '#60b347';
+    document.querySelector('number').style.width = '30rem';
+
 ### 74. Implementing the Game Logic
+
+    'use strict';
+    const secretNumber = Math.trunc(Math.random() * 20) + 1;
+    document.querySelector('.number').textContent = secretNumber;
+    document.querySelector('.check').addEventListener('click', function () {
+      const guess = Number(document.querySelector('.guess').value);
+      console.log(guess, typeof guess);
+      console.log(secretNumber, typeof secretNumber);
+      if (!guess) {
+        document.querySelector('.message').textContent = 'No Number';
+      } else if (guess === secretNumber) {
+        document.querySelector('.message').textContent = 'Correct Number!';
+     } else if (guess > secretNumber) {
+       document.querySelector('.message').textContent = 'Too High!';
+      } else if (guess < secretNumber) {
+       document.querySelector('.message').textContent = 'Too Low!';
+      }
+    });
 
 ## 2023/11/12 Sunday
 
