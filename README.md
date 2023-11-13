@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/11/13 Monday
+
+Project Work - Mechanical Engineering
+
 ## 2023/11/12 Sunday
 
 Family time
