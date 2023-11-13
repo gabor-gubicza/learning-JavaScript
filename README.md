@@ -82,7 +82,7 @@ Formatting
       ------ Input Decoding ------
 
       String is OK:     Max   char: 18
-                  Input char: 15
+                        Input char: 15
       Original string:  %132,5/a13tr5H6
       New string:       132.5a13tr5H6
       Dimension is:     132.5 mm
@@ -117,7 +117,7 @@ Formatting
 
 ### JavaScript Complete Course
 
-#### 73 Handling Click Eventss
+### 73 Handling Click Eventss
 
 . is the class selector
 
@@ -139,7 +139,7 @@ Formatting
     console.log(document.querySelector('.guess').value);
     document.querySelector('.guess').value = 23;
 
-#### 71 What's the DOM and DOM Manipulation
+### 71 What's the DOM and DOM Manipulation
 
 DOM: Document Object Model
 Structured representation of HTML focuments
@@ -154,7 +154,7 @@ DOM and DOM methods are part of the WEB API s. we can access these APIs with JS.
 
 API are written in JS are ready to be interacted with.
 
-#### 70. PROJECT #1: Guess My Number!
+### 70. PROJECT #1: Guess My Number!
 
     'use strict';
     console.log(document.querySelector('.message').textContent);
