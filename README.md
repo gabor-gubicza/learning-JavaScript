@@ -6,6 +6,8 @@ Public repo for my learning projects
 
 Project Work - Mechanical Engineering
 
+### 74. Implementing the Game Logic
+
 ## 2023/11/12 Sunday
 
 Family time
@@ -30,8 +32,6 @@ Project Work - Mechanical Engineering
 ## 2023/11/07 Tuesday
 
 =======
-
-### 74. Implementing the Game Logic
 
 ## 2023/11/08 Wednesday
 
