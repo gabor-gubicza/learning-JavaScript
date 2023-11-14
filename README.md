@@ -2,9 +2,11 @@
 
 Public repo for my learning projects
 
-## 2023/11/13 Monday
+## 2023/11/14 Tuesday
 
-Project Work - Mechanical Engineering
+### 77. Refactoring Our Code: The DRY Principle
+
+## 2023/11/13 Monday
 
 ### 76. Coding challenge
 
@@ -43,6 +45,8 @@ Project Work - Mechanical Engineering
        document.querySelector('.message').textContent = 'Too Low!';
       }
     });
+
+Project Work - Mechanical Engineering
 
 ## 2023/11/12 Sunday
 
