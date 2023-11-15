@@ -2,9 +2,13 @@
 
 Public repo for my learning projects
 
-## 2023/11/14 Tuesday
+## 2023/11/15 Tuesday
 
 ### 77. Refactoring Our Code: The DRY Principle
+
+## 2023/11/14 Tuesday
+
+Forbes Tech Summit on Thursday. Preparations. Website, Logo
 
 ## 2023/11/13 Monday
 
