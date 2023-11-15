@@ -153,8 +153,6 @@ DOM: Document Object Model
 Structured representation of HTML focuments
 Allpws JS to access html elements and styles to manipulat them.
 
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648405#content
-
 JS is the dialect of the ECMA Script.
 JS in the browser
 
@@ -418,8 +416,6 @@ https://www.youtube.com/watch?v=TviP5rCZiy0&ab_channel=TestingAI
 
 ### 70. Project: Guess my number
 
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648403#content
-
 ### 60. The Debugging Process
 
 - Identifying
@@ -438,8 +434,6 @@ https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/226484
     -writing tests using testing SW
 
   61. Debugging
-
-  https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648363#content
 
       console.log(measurement);
       console.table(measurement);
@@ -466,8 +460,6 @@ VSC Shortcuts Arjan codes
 https://www.youtube.com/watch?v=_gpNPNMYbVY&ab_channel=MonsterlessonsAcademy
 
 ### CSS Course 67
-
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648397#content
 
 CSS Box Model
 
@@ -519,8 +511,6 @@ Style goes to the head
 ## 2023/10/26 Thu
 
 ### HTML
-
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648385#content
 
 Pull from Git repo to the MacBook machine.
 Used GitLens
@@ -626,21 +616,15 @@ Project Work
 
 ## **Hoisting in JS**
 
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648493#content
-
 Makes some type of variables accessible in the code before they are actually declared
 
 To be finished
 
 ## **Scoping in practice:**
 
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648487#content
-
 To be finished
 
 ## **Scoping:**
-
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648481#content
 
 How our program's variables are organized and accessed.
 Where do variables live?
