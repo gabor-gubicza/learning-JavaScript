@@ -4,6 +4,8 @@ Public repo for my learning projects
 
 ### 77. Refactoring Our Code: The DRY Principle
 
+## 2023/11/16 Friday
+
 ## 2023/11/15 Thursday
 
 Forbes Tech Summit - All day
