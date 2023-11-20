@@ -4,9 +4,16 @@ Public repo for my learning projects
 
 ## 2023/11/20 Monday
 
+## 2023/11/19 Sunday
+
+Mechanical Engieering Project work.
+
 ### 77. Refactoring Our Code: The DRY Principle
 
 ## 2023/11/16 Friday
+
+Webdesign
+www.rufus-tech.com
 
 ## 2023/11/15 Thursday
 
