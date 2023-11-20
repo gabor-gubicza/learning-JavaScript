@@ -2,6 +2,8 @@
 
 Public repo for my learning projects
 
+## 2023/11/20 Monday
+
 ### 77. Refactoring Our Code: The DRY Principle
 
 ## 2023/11/16 Friday
