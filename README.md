@@ -4,6 +4,10 @@ Public repo for my learning projects
 
 ## 2023/11/21 Tuesday
 
+Mech Eng Project work
+Embedded Project work
+Robotics Project Work
+
 ## 2023/11/20 Monday
 
 Email signature design
