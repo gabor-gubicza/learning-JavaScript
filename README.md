@@ -2,7 +2,13 @@
 
 Public repo for my learning projects
 
+## 2023/11/21 Tuesday
+
 ## 2023/11/20 Monday
+
+Email signature design
+Web design
+Google Fonts
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
