@@ -2,7 +2,13 @@
 
 Public repo for my learning projects
 
+## 2023/11/22 Wednesday
+
+Embedded Project work
+
 ## 2023/11/21 Tuesday
+
+Email signature project is completed. I practiced HTML, it was cool.
 
 Mech Eng Project work
 Embedded Project work
