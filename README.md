@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/11/23 Thursday
+
+Embedded Project work
+
 ## 2023/11/22 Wednesday
 
 Embedded Project work
