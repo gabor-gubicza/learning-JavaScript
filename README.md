@@ -2,9 +2,14 @@
 
 Public repo for my learning projects
 
+## 2023/11/24 Friday
+
+Finishing table importing for the Engineering Fit Calculator project
+
 ## 2023/11/23 Thursday
 
 Embedded Project work
+Website design. www.rufus-tech.com
 
 ## 2023/11/22 Wednesday
 
