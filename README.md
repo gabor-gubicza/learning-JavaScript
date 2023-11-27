@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/11/25 Monday
+
+I purchased a Tailwind CSS course
+
 ## 2023/11/24 Friday
 
 Finishing table importing for the Engineering Fit Calculator project
