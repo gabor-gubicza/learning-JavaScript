@@ -6,6 +6,31 @@ Public repo for my learning projects
 
 I purchased a Tailwind CSS, and Flutter course
 
+Using JS logic with a Flutter Front-end
+https://www.youtube.com/watch?v=13v_BwZcCLk&ab_channel=LearnAppCode
+
+Anatomy of a Flutter App
+Everything is a Widget, like layer blocks on layer blocks
+
+    Scaffold
+    App Bar
+    Container
+      column
+        Row
+        Text
+      Row Text
+
+### Section 1 Introduction to cross platform development with Flutter and Dart
+
+### Section 2 Setup and installation
+
+Android studio
+Codemagic
+Installed Flutter
+Installed Android Studio
+Installed Dart
+Android stuidio plugins configured
+
 ## 2023/11/24 Friday
 
 Finishing table importing for the Engineering Fit Calculator project
