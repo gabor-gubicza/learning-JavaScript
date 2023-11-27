@@ -4,7 +4,7 @@ Public repo for my learning projects
 
 ## 2023/11/25 Monday
 
-I purchased a Tailwind CSS course
+I purchased a Tailwind CSS, and Flutter course
 
 ## 2023/11/24 Friday
 
