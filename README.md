@@ -4,6 +4,11 @@ Public repo for my learning projects
 
 ## 2023/11/26 Tuesday
 
+LinkedIn Post.
+
+Flutter Emulator: Pixel 6
+Android Studio configuration
+
 ## 2023/11/25 Monday
 
 I purchased a Tailwind CSS, and Flutter course
