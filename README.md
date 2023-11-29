@@ -2,9 +2,13 @@
 
 Public repo for my learning projects
 
-## 2023/11/26 Tuesday
+## 2023/11/27 Wednesday
 
 I decided to discard Flutter, there is no point learning Dart, I'll use React Native for Mobile development
+
+I finished my website: www.rufus-tech.com
+
+Trying to install Expo for React Native
 
 ## 2023/11/26 Tuesday
 
