@@ -9,6 +9,7 @@ I decided to discard Flutter, there is no point learning Dart, I'll use React Na
 I finished my website: www.rufus-tech.com
 
 Trying to install Expo for React Native
+CLI stands for "Command Line Interface.
 
 ## 2023/11/26 Tuesday
 
