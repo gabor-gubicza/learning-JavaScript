@@ -4,6 +4,10 @@ Public repo for my learning projects
 
 ## 2023/11/26 Tuesday
 
+I decided to discard Flutter, there is no point learning Dart, I'll use React Native for Mobile development
+
+## 2023/11/26 Tuesday
+
 LinkedIn Post.
 
 Flutter Emulator: Pixel 6
