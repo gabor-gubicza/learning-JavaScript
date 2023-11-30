@@ -2,7 +2,9 @@
 
 Public repo for my learning projects
 
-## 2023/11/27 Wednesday
+## 2023/11/30 Thursday
+
+## 2023/11/29 Wednesday
 
 I decided to discard Flutter, there is no point learning Dart, I'll use React Native for Mobile development
 
@@ -11,14 +13,16 @@ I finished my website: www.rufus-tech.com
 Trying to install Expo for React Native
 CLI stands for "Command Line Interface.
 
-## 2023/11/26 Tuesday
+https://blog.expo.dev/the-new-expo-cli-f4250d8e3421
+
+## 2023/11/28 Tuesday
 
 LinkedIn Post.
 
 Flutter Emulator: Pixel 6
 Android Studio configuration
 
-## 2023/11/25 Monday
+## 2023/11/27 Monday
 
 I purchased a Tailwind CSS, and Flutter course
 
