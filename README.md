@@ -2,7 +2,17 @@
 
 Public repo for my learning projects
 
+## 2023/12/02 Saturday
+
+Monthly Operating Review
+
+## 2023/12/01 Friday
+
+Monthly Operating Review
+
 ## 2023/11/30 Thursday
+
+Website refinement. Business and Engineering Consulting
 
 ## 2023/11/29 Wednesday
 
