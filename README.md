@@ -4,7 +4,15 @@ Public repo for my learning projects
 
 ## 2023/12/02 Saturday
 
-Monthly Operating Review
+### 77. Refactoring Our Code: The DRY Principle
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648429#overview
+
+Ternery Operator
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
+
+The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark (?), then an expression to execute if the condition is truthy followed by a colon (:), and finally the expression to execute if the condition is falsy. This operator is frequently used as an alternative to an if...else statement.
 
 ## 2023/12/01 Friday
 
