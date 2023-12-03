@@ -12,6 +12,10 @@ let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highScore = 0;
 //document.querySelector('.number').textContent = secretNumber;
+const displayMessage = function (message) {
+  document.querySelector('.message').textContent = message;
+};
+
 document.querySelector('.number').textContent = '?';
 
 document.querySelector('.again').addEventListener('click', function () {
@@ -30,11 +34,15 @@ document.querySelector('.check').addEventListener('click', function () {
   console.log(guess, typeof guess);
   //console.log(secretNumber, typeof secretNumber);
   if (!guess) {
-    document.querySelector('.message').textContent = 'No Number';
+    //document.querySelector('.message').textContent = 'No Number';
+    displayMessage('No number');
+
     // When player wins
   } else if (guess === secretNumber) {
-    document.querySelector('.message').textContent = 'Correct Number!';
-    document.querySelector('.number').textContent = secretNumber;
+    //document.querySelector('.message').textContent = 'Correct Number!';
+    displayMessage('Correct Number!');
+    //document.querySelector('.number').textContent = secretNumber;
+    displayMessage(secretNumber);
     document.querySelector('body').style.backgroundColor = '#60b347';
     document.querySelector('.number').style.width = '30rem';
     if (score > highScore) {
@@ -44,9 +52,20 @@ document.querySelector('.check').addEventListener('click', function () {
 
     //When guess is wrong
   } else if (guess !== secretNumber) {
+    if (score > 1) {
+      document.querySelector('.message').textContent =
+        guess > secretNumber ? 'Too High!' : 'Too Low!';
+      score = score - 1; // score--
+      document.querySelector('.score').textContent = score;
+    } else {
+      //document.querySelector('.message').textContent = 'You lost';
+      displayMessage('You lost');
+      document.querySelector('body').style.backgroundColor = '#ff0000';
+    }
   }
 
   //When guess is too high
+  /*
   else if (guess > secretNumber) {
     if (score > 1) {
       document.querySelector('.message').textContent = 'Too High!';
@@ -67,5 +86,5 @@ document.querySelector('.check').addEventListener('click', function () {
       document.querySelector('.message').textContent = 'You lost';
       document.querySelector('body').style.backgroundColor = '#ff0000';
     }
-  }
+  } */
 });

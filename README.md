@@ -2,17 +2,111 @@
 
 Public repo for my learning projects
 
+## 2023/12/03 Sunday
+
+### 79. PROJECT #2: Modal Window
+
 ## 2023/12/02 Saturday
 
-### 77. Refactoring Our Code: The DRY Principle
+### 79. PROJECT #2: Modal Window
 
-https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648429#overview
+A modal window, often simply referred to as a "modal," is a graphical user interface (GUI) element that appears on top of the main content or parent window and temporarily interrupts the user's workflow to request input or display information. Modals are commonly used in software applications and websites to capture user input, display alerts, or show additional content without navigating to a new page or closing the current view.
+
+Key characteristics of modal windows include:
+
+Overlay: When a modal appears, it typically darkens or "grays out" the background content, making it less prominent and preventing interaction with the underlying interface. This overlay effect draws the user's attention to the modal itself.
+
+Focused: Modals are designed to capture the user's attention and focus it on a specific task or message. They are often used for tasks that require user input or decision-making.
+
+Blocking: Modals are blocking elements, meaning that the user typically cannot interact with the rest of the application or website until they dismiss or complete the modal's task.
+
+Temporary: Modals are temporary and are meant to be a transient part of the user experience. Once their purpose is fulfilled, they can be closed or dismissed.
+
+Common use cases for modal windows include:
+
+Form Input: Modals are often used to collect user input through forms, such as login forms, registration forms, or search filters.
+
+Alerts and Confirmations: They can display alerts, error messages, or confirmation dialogs to inform users of important information or to confirm actions like deleting a file.
+
+Content Previews: Modals can show additional information or previews of content, such as larger images, detailed descriptions, or pop-up videos.
+
+User Interactions: Modals are useful for interactions like selecting items from a list, setting preferences, or choosing from a set of options.
+
+Here's a simple example of HTML and JavaScript code to create a modal window:
+
+html
+Copy code
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* CSS to style the modal and overlay */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <button onclick="openModal()">Open Modal</button>
+    <div id="myModal" class="modal">
+        <h2>Modal Title</h2>
+        <p>This is a modal window.</p>
+        <button onclick="closeModal()">Close</button>
+    </div>
+    <div id="overlay" class="overlay"></div>
+
+    <script>
+        function openModal() {
+            document.getElementById("myModal").style.display = "block";
+            document.getElementById("overlay").style.display = "block";
+        }
+
+        function closeModal() {
+            document.getElementById("myModal").style.display = "none";
+            document.getElementById("overlay").style.display = "none";
+        }
+    </script>
+
+</body>
+</html>
+In this example, clicking the "Open Modal" button triggers the display of a modal window with a title, content, and a "Close" button. The modal overlays the rest of the content and prevents interaction with it until the modal is closed.
+
+The appearance and behavior of modals can vary widely based on design and user experience preferences, but the fundamental concept of temporarily interrupting the user's workflow remains the same.
+
+### 78. Refactoring Our Code: The DRY Principle
 
 Ternery Operator
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
 
 The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark (?), then an expression to execute if the condition is truthy followed by a colon (:), and finally the expression to execute if the condition is falsy. This operator is frequently used as an alternative to an if...else statement.
+
+    document.querySelector('.message').textContent =
+        guess > secretNumber ? 'Too High!' : 'Too Low!';
+
+Refactoring
+
+    const displayMessage = function (message) {
+     document.querySelector('.message').textContent = message;
+    };
+        displayMessage('No number');
 
 ## 2023/12/01 Friday
 
