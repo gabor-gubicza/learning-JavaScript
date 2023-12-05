@@ -2,9 +2,11 @@
 
 Public repo for my learning projects
 
-## 2023/12/03 Sunday
+## 2023/12/05 Tuesday
 
 ### 79. PROJECT #2: Modal Window
+
+## 2023/12/03 Sunday
 
 ## 2023/12/02 Saturday
 
