@@ -20,6 +20,9 @@ Service worker primer: https://developers.google.com/web/fundamentals/primers/se
 MDN service worker registration notifications reference:
 https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/showNotification
 
+End-to-End Testing jest, Puppeteer:
+https://www.youtube.com/watch?v=GB4oJ1Ru1Nk&ab_channel=Degraphe
+
 ## 2023/12/05 Tuesday
 
 ### 79. PROJECT #2: Modal Window
