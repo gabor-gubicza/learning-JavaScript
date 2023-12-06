@@ -17,7 +17,8 @@ Chrome extension APIs reference: https://developer.chrome.com/docs/extensions/re
 
 Service worker primer: https://developers.google.com/web/fundamentals/primers/service-workers
 
-MDN service worker registration notifications reference: https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/showNotification
+MDN service worker registration notifications reference:
+https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/showNotification
 
 ## 2023/12/05 Tuesday
 
