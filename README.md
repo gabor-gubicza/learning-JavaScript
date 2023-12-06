@@ -6,6 +6,19 @@ Public repo for my learning projects
 
 Project Work
 
+Chrome Development
+React & TypeScript Chrome Extension Development [2023]
+
+Chrome developer documentation: https://developer.chrome.com/docs/extensions/
+
+Manifest file reference: https://developer.chrome.com/docs/extensions/mv3/manifest/
+
+Chrome extension APIs reference: https://developer.chrome.com/docs/extensions/reference/
+
+Service worker primer: https://developers.google.com/web/fundamentals/primers/service-workers
+
+MDN service worker registration notifications reference: https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/showNotification
+
 ## 2023/12/05 Tuesday
 
 ### 79. PROJECT #2: Modal Window
