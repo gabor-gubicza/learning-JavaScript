@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Rufus Tolerance Calculator",
+  "version": "1.0",
+  "description": "Helps you calculating ISO tolerances for Mechanical Engineering Fittings.          Developed by: Gabor Gubicza",
+  "icons": {
+    "16": "Rufus logo 150sq PNG.png",
+    "48": "Rufus logo 150sq PNG.png",
+    "128": "Rufus logo 150sq PNG.png"
+  },
+  "action": {
+    "default_icon": "Rufus logo 150sq PNG.png",
+    "default_title": "Tolerance Calculator",
+    "default_popup": "popup/popup.html"
+  },
+  "side_panel": {
+    "default_path": "sidepanel/sidepanel.html"
+  },
+  "permissions": ["sidePanel"]
+}
