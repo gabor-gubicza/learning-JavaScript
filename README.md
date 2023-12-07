@@ -43,6 +43,23 @@ Pages Router
 
 Project Work
 
+Chrome Development
+React & TypeScript Chrome Extension Development [2023]
+
+Chrome developer documentation: https://developer.chrome.com/docs/extensions/
+
+Manifest file reference: https://developer.chrome.com/docs/extensions/mv3/manifest/
+
+Chrome extension APIs reference: https://developer.chrome.com/docs/extensions/reference/
+
+Service worker primer: https://developers.google.com/web/fundamentals/primers/service-workers
+
+MDN service worker registration notifications reference:
+https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/showNotification
+
+End-to-End Testing jest, Puppeteer:
+https://www.youtube.com/watch?v=GB4oJ1Ru1Nk&ab_channel=Degraphe
+
 ## 2023/12/05 Tuesday
 
 ### 79. PROJECT #2: Modal Window
