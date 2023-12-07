@@ -2,6 +2,43 @@
 
 Public repo for my learning projects
 
+## 2023/12/07 Thursday
+
+NextJS course is bought
+
+What is routing in Next JS:
+Routing in Next.js refers to the way in which the framework handles the navigation between different parts of a web application. Next.js is a popular React framework that provides a server-side rendering solution for React applications, and its routing system is one of its key features. Here are some key aspects of routing in Next.js:
+
+1. **File-system Based Routing**: Next.js uses a file-based routing system. It means that the routes are determined by the file structure in the `pages` directory. For example, a file named `about.js` in the `pages` directory would be accessible at `/about`.
+
+2. **Dynamic Routes**: Next.js allows for dynamic routing, where you can create routes that are able to change based on given data. This is done by using square brackets in the file name to denote a dynamic segment, like `[id].js`.
+
+3. **Link Component**: To navigate between pages, Next.js provides a `Link` component from `next/link`. This component enables client-side navigation to a different route in the application.
+
+4. **Server-side Support for Routing**: Next.js supports server-side rendering for each route, meaning that the HTML for each page is generated on the server at request time.
+
+5. **API Routes**: Next.js allows you to create API routes alongside your regular pages. These are server-side routes that can handle backend functionality like fetching data or interacting with databases.
+
+6. **Fallbacks for Dynamic Routes**: For dynamic routes, Next.js offers a fallback feature, allowing pages to be rendered on-demand after the initial build.
+
+7. **Custom Server and Routing**: Though Next.js comes with a default server and routing system, you can create a custom server and manage routing yourself, giving more control over how requests are handled.
+
+8. **Navigation Hooks**: Next.js offers React hooks like `useRouter` for programmatic navigation and accessing route parameters.
+
+These features make Next.js a powerful and flexible framework for building modern web applications, especially when dealing with complex routing needs.
+
+App Router
+
+- newer
+- recommended
+- /app dir
+
+Pages Router
+
+- 2016
+- still supported
+- /pages dir
+
 ## 2023/12/06 Wednesday
 
 Project Work
