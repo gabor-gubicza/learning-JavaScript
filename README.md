@@ -4,6 +4,12 @@ Public repo for my learning projects
 
 ## 2023/12/07 Thursday
 
+---
+
+SSR - Server Side Rendering
+
+---
+
 NextJS course is bought
 
 What is routing in Next JS:
@@ -27,13 +33,13 @@ Routing in Next.js refers to the way in which the framework handles the navigati
 
 These features make Next.js a powerful and flexible framework for building modern web applications, especially when dealing with complex routing needs.
 
-App Router
+### App Router
 
 - newer
 - recommended
 - /app dir
 
-Pages Router
+### Pages Router
 
 - 2016
 - still supported
