@@ -10,7 +10,7 @@
   },
   "action": {
     "default_icon": "Rufus logo 150sq PNG2.png",
-    "default_title": "Tolerance Calculator",
+    "default_title": "Rufus Tolerance Calculator",
     "default_popup": "popup/popup.html"
   },
   "side_panel": {
