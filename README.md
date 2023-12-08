@@ -4,6 +4,10 @@ Public repo for my learning projects
 
 ## 2023/12/08 Friday
 
+Project work
+
+Project Tango Charlie Chrome Extension started
+
 ## 2023/12/07 Thursday
 
 ---
