@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/12/09 Saturday
+
+HTML Canvas Learning. It's pretty cool
+
 ## 2023/12/08 Friday
 
 Project work
