@@ -2,6 +2,14 @@
 
 Public repo for my learning projects
 
+## 2023/12/10 Sunday
+
+Family time
+
+## 2023/12/09 Saturday
+
+HTML Canvas
+
 ## 2023/12/08 Friday
 
 Project work
