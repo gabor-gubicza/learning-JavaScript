@@ -2,6 +2,7 @@
 
 Public repo for my learning projects
 
+<<<<<<< HEAD
 ## 2023/12/10 Sunday
 
 Family time
@@ -9,6 +10,11 @@ Family time
 ## 2023/12/09 Saturday
 
 HTML Canvas
+=======
+## 2023/12/09 Saturday
+
+HTML Canvas Learning. It's pretty cool
+>>>>>>> 9f4b262e43ad8848a63b30d92b6b0b17c77ea99c
 
 ## 2023/12/08 Friday
 
