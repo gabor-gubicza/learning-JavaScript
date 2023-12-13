@@ -2,15 +2,22 @@
 
 Public repo for my learning projects
 
+## 2023/12/13 Wednesday
+
+Working on Marketing materials
+
 <<<<<<< HEAD
+
 ## 2023/12/12 Tuesday
+
 =======
 <<<<<<< HEAD
 
 ## 2023/12/10 Sunday
 
 Family time
->>>>>>> 3f105fed1703c5635ece5a4217ee45574f497461
+
+> > > > > > > 3f105fed1703c5635ece5a4217ee45574f497461
 
 ## 2023/12/09 Saturday
 
