@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/12/14 Thursday
+
+Marketing material www.rufus-tech.com
+
 ## 2023/12/13 Wednesday
 
 Working on Marketing materials
