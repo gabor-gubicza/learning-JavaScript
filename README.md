@@ -2,7 +2,11 @@
 
 Public repo for my learning projects
 
+## 2023/12/16 Saturday
+
 ## 2023/12/15 Friday
+
+Project work
 
 ## 2023/12/14 Thursday
 
