@@ -4,6 +4,33 @@ Public repo for my learning projects
 
 ## 2023/12/17 Sunday
 
+React Native
+
+1. Course overview
+2. What is React Native?
+
+- Android
+- iOS
+
+3. CLI vsExpo
+
+- Expo: User friendly interface. Preconfigured libraries and components
+
+- React Native CLI: Official and traditional way
+  Full control of the project.
+  Access device specific features
+  Advanages: Modify native code directly
+  Granular control
+
+Big companies
+
+- unique requirement
+- necessary flexibility.
+- fine grain control
+- scalability
+
+4. Resources
+
 ## 2023/12/16 Saturday
 
 Getting leads
