@@ -2,7 +2,11 @@
 
 Public repo for my learning projects
 
+## 2023/12/17 Sunday
+
 ## 2023/12/16 Saturday
+
+Getting leads
 
 ## 2023/12/15 Friday
 
