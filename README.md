@@ -31,6 +31,10 @@ Big companies
 
 4. Resources
 
+Resources
+
+8. Getting started on Windows
+
 ## 2023/12/16 Saturday
 
 Getting leads
