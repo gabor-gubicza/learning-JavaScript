@@ -2,6 +2,8 @@
 
 Public repo for my learning projects
 
+## 2023/12/18 Monday
+
 ## 2023/12/17 Sunday
 
 React Native
