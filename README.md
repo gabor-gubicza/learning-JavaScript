@@ -2,6 +2,80 @@
 
 Public repo for my learning projects
 
+## 2023/12/19 Tuesday
+
+Today I suffered A Great Loss. But Life Goes On.
+
+https://www.youtube.com/watch?v=GtPK0gRdFgI&list=PLohYzz4btpaRvkIb1xxWH0Pn8_mGr8aYU&index=31&ab_channel=MarieInnes
+
+### Truth
+
+Song by Alex Ebert
+
+    The truth is that I never shook my shadow
+    Every day, it's trying to trick me into doing battle
+    Calling out faker only get me rattled
+    Want to pull me back behind the fence with the cattle
+
+    Building your lenses
+    Digging your trenches
+    Put me on the front line
+    Leave me with a dumb mind with no defenses
+    But you're defenseless
+    If you can't stand to feel the pain then you are senseless
+
+    Since this (ooh) I've grown up some different kind of fighter
+    And when the darkness comes, let it inside you (ah-ah-ah)
+
+    And your darkness is shining
+    My darkness is shining (ah)
+    Have faith in myself
+    Truth
+
+    I've seen a million numbered doors on the horizon
+    Now, which is the future you're choosing before you go dyin'?
+    I'll tell you about a secret I've been undermining
+    Every little lie in this world comes from dividing
+    Say you're my lover, say you're my homie
+
+    Tilt my chin back, slit my throat, take a bath in my blood, get to know me
+    All out of my secrets
+    All my enemies are turning into my teachers
+    Because, lights blinding, no way dividing what's yours or mine (ooh)
+    When everything's shining (ah)
+    And your darkness is shining
+
+    My darkness is shining (ah-ah-ah)
+    Have faith in ourselves
+    Truth
+
+    Yeah
+    Yes, I'm only loving, only trying to only love
+    And yes, what I'm trying to do is only loving
+    Yes, I'm only loving, trying to only love
+    I swear to God, I'm only trying to be loving (yes, I'm only loving)
+
+    Yes, I'm only lonely loving
+    Yes, I'm only feeling, only loving, only loving (yes, I'm only loving)
+    You say it ain't loving, ain't loving (ah)
+    Ain't loving, my loving (yes, I'm only loving)
+
+    But I'm only loving, still only loving
+    Swear to god, I'm only loving
+    Trying to be loving, loving
+    Loving, loving, loving, loving (ah)
+
+    Yes, I'm only loving, yes, trying to only love
+    I swear to god, I'm trying but I'm only loving
+    You say it ain't loving, ain't loving, ain't loving
+    Ain't loving, ain't loving, my loving (ah)
+    But I'm only loving, loving, loving, loving the truth
+
+    Ooh-ooh
+    La-la-la-la-la
+    Ooh
+    Truth
+
 ## 2023/12/18 Monday
 
 ## 2023/12/17 Sunday
