@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/12/20 Wednesday
+
+Company brochure creation - DONE
+
 ## 2023/12/19 Tuesday
 
 Today I suffered A Great Loss. But Life Goes On.
