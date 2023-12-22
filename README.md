@@ -2,6 +2,10 @@
 
 Public repo for my learning projects
 
+## 2023/12/22 Friday
+
+## 2023/12/21 Thursday
+
 ## 2023/12/20 Wednesday
 
 Company brochure creation - DONE
