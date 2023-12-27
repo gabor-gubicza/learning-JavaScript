@@ -2,6 +2,11 @@
 
 Public repo for my learning projects
 
+## 2023/12/27 Wednesday
+
+Back from the Holidays.
+Let's Motherfucking Go!
+
 ## 2023/12/22 Friday
 
 ## 2023/12/21 Thursday
