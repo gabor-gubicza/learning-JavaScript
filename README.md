@@ -2,6 +2,8 @@
 
 Public repo for my learning projects
 
+## 2024/01/02 Tuesday
+
 ## 2023/12/30 Saturday
 
 ## 2023/12/29 Friday
