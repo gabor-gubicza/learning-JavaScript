@@ -6,6 +6,18 @@ Public repo for my learning projects
 
 ### 79. PROJECT #2: Modal Window
 
+Downloading source material
+
+Queryselector limitations: Only the first element is returned
+
+    const btnCloseModal = document.querySelector('.close-modal');
+    const btnsOpenModal = document.querySelector('.show-modal');
+    console.log(btnsOpenModal);
+
+Fix:
+
+    const btnsOpenModal = document.querySelectorAll('.show-modal');
+
 ## 2024/01/06 Saturday
 
 ## 2024/01/05 Friday
