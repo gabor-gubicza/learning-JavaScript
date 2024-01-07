@@ -2,6 +2,8 @@
 
 Public repo for my learning projects
 
+## 2024/01/07 Sunday
+
 ## 2024/01/06 Saturday
 
 ## 2024/01/05 Friday
