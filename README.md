@@ -18,6 +18,10 @@ Fix:
 
     const btnsOpenModal = document.querySelectorAll('.show-modal');
 
+if there is one line of command after for loop there is no need for { }
+
+### 80. PROJECT #2: Modal Window Working with Classes
+
 ## 2024/01/06 Saturday
 
 ## 2024/01/05 Friday
